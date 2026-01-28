@@ -1,0 +1,9 @@
+numpy
+librosa
+matplotlib
+seaborn
+scikit-learn
+xgboost
+tensorflow==2.13.0
+streamlit
+joblib
