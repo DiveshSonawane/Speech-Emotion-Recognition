@@ -1,0 +1,23 @@
+# Ignore datasets
+data/
+datasets/
+RAVDESS/
+TESS/
+*.wav
+
+# Ignore cache
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignore environment
+venv/
+.env
+
+# Ignore large files
+*.zip
+*.tar
+*.rar
+
+# OS files
+.DS_Store
+Thumbs.db
